@@ -1668,9 +1668,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/wso2/product-iots.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/product-iots.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/product-iots.git</connection>
+        <url>https://github.com/harshanl/product-iots.git</url>
+        <developerConnection>scm:git:https://github.com/harshanl/product-iots.git</developerConnection>
+        <connection>scm:git:https://github.com/harshanl/product-iots.git</connection>
         <tag>HEAD</tag>
     </scm>
 
